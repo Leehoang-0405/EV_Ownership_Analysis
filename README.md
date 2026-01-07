@@ -24,27 +24,6 @@ Using inferential and descriptive analytics, the project aimed to answer key res
 
 ---
 
-## 📂 Project Structure  
-📁 ev-ownership-analysis
-┣ 📄 A1_s224309594.docx # Final written report with interpretation and conclusions
-┣ 📊 A1_s224309594.xlsx # Data analysis workbook with hypothesis tests and visualisations
-┣ 📄 MIS771_A1_T2_2024.pdf # Assignment brief and analytical guidelines
-
----
-
-## 🚀 How to Use  
-
-### 1. Open the Excel Analysis File  
-`A1_s224309594.xlsx` contains all descriptive and inferential analyses, including t-tests, ANOVA, chi-square tests, and Z-tests.  
-
-### 2. Read the Report  
-`A1_s224309594.docx` summarises findings in plain language, interpreting statistical outcomes for non-technical audiences.  
-
-### 3. Review the Assignment Specification  
-`MIS771_A1_T2_2024.pdf` outlines the problem statement, dataset variables, and expected deliverables.  
-
----
-
 ## 📈 Key Analytical Components  
 
 ### **1. Travel Distance Comparison**  
